@@ -1,0 +1,207 @@
+body{
+    margin:0;
+    
+    font-family: 'Poppins', sans-serif;
+    
+   
+}
+.header-section{
+    background-image:url(donate-2022.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    
+    height:100vh;
+    margin-bottom:150px;
+}
+
+
+.content h1{
+   
+    margin-left: 60%;
+     
+    margin-top:10%;
+    
+    font-size:50px;
+    color: white;
+    
+}
+.content p{
+    margin-left:60%;
+    font-size: 20px;
+    
+    margin-bottom: 50px;
+    color:white;
+}
+
+.content  a{
+    
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    background:#E31E30;
+    padding: 12px 25px;
+    border-radius: 10px;
+    
+    margin-left:70%;
+}
+
+.middle-area{
+margin-bottom: 150px;
+}
+
+.donate h1{
+    margin-left:40%;
+    font-size: 35px;
+    font-weight:700;
+}
+.donate p{
+    margin-left: 30%;
+    margin-right:25%;
+}
+.amount{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    margin-right:10%;
+    opacity:70%;
+    margin-bottom: 50px;
+}
+.taka{
+    padding:30px 15px;
+   background: gainsboro;
+   border-radius:10px;
+   
+   
+}
+#two-hundred{
+    background: #FFEEEE;
+    color:#FF5959;
+    border:2px solid #FF5959;
+}
+.email{
+    margin-left:30%;
+    align-content: center;
+    text-align: center;
+    font-size:25px;
+    padding:20px 150px;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-bottom:40px;
+ 
+}
+.middle-content a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    background:#E31E30;
+    padding: 12px 25px;
+    border-radius: 10px;
+    
+    margin-left:45%;
+
+}
+.plan-title h2{
+    margin-left:42%;
+    font-size: 35px;
+    font-weight:700;
+
+}
+.plan-title p{
+    margin-left: 32%;
+    margin-right:25%;
+    margin-bottom:50px;
+    
+}
+
+.icon-area{
+    display: flex;
+    margin-left:10%;
+    margin-right:10%;
+    justify-content: space-evenly;
+    margin-bottom:100px;
+
+}
+.food{
+    background: #EDF5F6;
+    width:70%;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+.icon-img{
+
+    padding: 10px 20px;
+    margin-top:30px;
+
+}
+.icon-head{
+  margin-left:15px;
+  font-size:25px;
+  font-weight:600;
+}
+.icon-text{
+    margin-left:15px;
+    padding-bottom:25px;
+}
+.shelter{
+    background: #FFEEEE;
+    width:70%;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+.education{
+    background: #ffbe76;
+    width:70%;
+    border-radius: 10px;
+    margin-right: 10px;
+
+}
+.appeal h2{
+    margin-left:30%;
+    font-size: 35px;
+    font-weight:700;
+
+}
+.flood{
+    display: flex;
+    margin-left:10%;
+    margin-right:10%;
+    justify-content: space-evenly;
+    margin-bottom:100px;
+}
+.build{
+    margin-right: 30px;
+    border-radius:10px;
+    box-shadow: 5px 5px 5px 5px gray;
+    padding-bottom: 50px;
+}
+.feed{
+    margin-right: 30px;
+    border-radius:10px;
+    box-shadow: 5px 5px 5px 5px gray;
+
+}
+.sylhet{
+    margin-right: 20px;
+    border-radius:10px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.flood-head{
+    margin-left:25px;
+    font-size:25px;
+    font-weight:600;
+}
+.flood-context{
+    margin-left:15px;
+    padding-bottom:25px;
+}
+.flood a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    background:#E31E30;
+    padding: 12px 25px;
+    border-radius: 10px;
+    margin-left: 105px;
+}
