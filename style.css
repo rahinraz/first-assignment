@@ -11,24 +11,34 @@ body{
     overflow: hidden;
     background-size: cover;
     
+    
     height:100vh;
     margin-bottom:150px;
+}
+.content{
+    background: linear-gradient(rgb(0,0,0,0.2),rgb(0,0,0,0.8));
+    width: 100vw;
+    height:100vh;
+    overflow: hidden;
+
 }
 
 
 .content h1{
    
-    margin-left: 60%;
+    margin-left: 45%;
+    margin-right:15%;
      
     margin-top:10%;
     
-    font-size:50px;
+    font-size:45px;
     color: white;
     
 }
 .content p{
-    margin-left:60%;
+    margin-left:40%;
     font-size: 20px;
+    margin-right: 10%;
     
     margin-bottom: 50px;
     color:white;
@@ -43,7 +53,7 @@ body{
     padding: 12px 25px;
     border-radius: 10px;
     
-    margin-left:70%;
+    margin-left:55%;
 }
 
 .middle-area{
@@ -219,30 +229,64 @@ margin-bottom: 150px;
 }
 
 .email-subscribe{
+    display: flex;
     margin-left:15%;
     margin-right:15%;
     background: #FFF4D6;
-    margin-bottom: 40px;
+    margin-bottom: 140px;
     border-radius: 20px;
+    
+    
 }
 input[type="search"]{
     width: 250px;
     background: #D9D9D9;
     position: relative;
-    padding:10px 50px;
+    padding:10px 60px;
     margin:70px 0px 70px 30px;
     align-items: center;
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 5px 0px 0px 5px;
     margin-left:250px;
+    border: none;
+    padding-right:20x;
     
 }
-input[type="submit"]{
-    position: relative;
-    padding:10px 45px;
+.email-subscribe a{
+    margin-top:70px;
+    margin-bottom:70px;
+    
+    padding:10px 30px;
    
     background: #FF5959;
     color:white;
-    font-weight:600;
-    border-radius:0px 10px 10px 0px;
+    font-weight:500;
+    border-radius:0px 5px 5px 0px;
     cursor: pointer;
+    border: none;
+    text-decoration:none;
+    
+}
+
+.footer-area{
+
+    background: black;
+    width:100%;
+    padding:10px 0px;
+}
+.humble{
+    margin-top:50px;
+    color:#FF5959;
+    text-align: center;
+    font-size:40px;
+    font-family: 'Pacifico', cursive;
+    
+   
+    
+}
+.footer-content p{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: 'Yellowtail', cursive;
+
 }
